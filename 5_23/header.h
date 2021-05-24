@@ -11,6 +11,7 @@
 #include <vector>
 #include <set>
 #include <unordered_map>
+#include <numeric>
 using namespace std;
 
 #endif
